@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>8.7</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <AutoPlayVideo>false</AutoPlayVideo>
+            <Captions>true</Captions>
+            <CaptionsEffect>parallax</CaptionsEffect>
+            <Controls>true</Controls>
+            <FontSize>14</FontSize>
+            <FullScreen>false</FullScreen>
+            <GalleryName>visor2</GalleryName>
+            <GallerySuffix>2</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>photo</ImageEffect>
+            <ImageFillColor>#000000</ImageFillColor>
+            <ImageHeight>360</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>false</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/zippy/</ImageTemplate>
+            <ImageTemplateName>Zippy</ImageTemplateName>
+            <ImageWidth>640</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>true</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishFileName>J://visor2.html</PublishFileName>
+            <PublishIndex>visor2.html</PublishIndex>
+            <PublishPath>J:/</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>1</ShowBullets>
+            <ShowControls>false</ShowControls>
+            <ShowTooltips>0</ShowTooltips>
+            <SizeStyle>2</SizeStyle>
+            <SlideshowDelay>20</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <SwipeSupport>2</SwipeSupport>
+            <TemplateColor>#ffffff</TemplateColor>
+            <TemplateFont>Khula</TemplateFont>
+            <TemplateName>zippy</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>0</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>I:/app10/imagenes/Administracion(2).png</url>
+                <title>Administracion(2)</title>
+                <filesize>53096</filesize>
+            </Image>
+            <Image>
+                <url>I:/app10/imagenes/Administracion(4).png</url>
+                <title>Administracion(4)</title>
+                <filesize>233078</filesize>
+            </Image>
+            <Image>
+                <url>I:/app10/imagenes/Administracion(5).png</url>
+                <title>Administracion(5)</title>
+                <filesize>50947</filesize>
+            </Image>
+            <Image>
+                <url>I:/app10/imagenes/Buap.png</url>
+                <title>Buap</title>
+                <filesize>301600</filesize>
+            </Image>
+            <Image>
+                <url>I:/app10/imagenes/comercio-internacional(3).png</url>
+                <title>comercio-internacional(3)</title>
+                <filesize>236069</filesize>
+            </Image>
+            <Image>
+                <url>I:/app10/imagenes/finanzas (1).png</url>
+                <title>finanzas (1)</title>
+                <filesize>413950</filesize>
+            </Image>
+            <Image>
+                <url>I:/app10/imagenes/finanzas(4).png</url>
+                <title>finanzas(4)</title>
+                <filesize>130683</filesize>
+            </Image>
+            <Image>
+                <url>I:/app10/imagenes/finanzas.png</url>
+                <title>finanzas</title>
+                <filesize>170951</filesize>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>
